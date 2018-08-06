@@ -1,1 +1,2 @@
-Este es texto de prueba
+Este es también texto prueba
+para otra versión
