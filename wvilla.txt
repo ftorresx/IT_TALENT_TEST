@@ -2,3 +2,6 @@ Archivo modificado
 Clonar desde visual code con F1 adicionando la URL
 Segundo
 Tercero
+Hacer pull para actualizar
+Despues push
+Usuario y nombre
