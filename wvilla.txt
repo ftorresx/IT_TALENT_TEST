@@ -1,1 +1,2 @@
-archivo modificado
+Archivo modificado
+Clonar desde visual code con F1 adicionando la URL
